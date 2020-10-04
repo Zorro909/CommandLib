@@ -30,7 +30,7 @@ CommandLib is a Java library for dealing with commands in various Situations via
 
 ## Usage
 
-```
+```java
 @Command(value = "ping")
 public class PingCommand {
   
